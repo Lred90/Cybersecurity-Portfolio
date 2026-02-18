@@ -1,17 +1,19 @@
-# 🛡️ Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
-## 👨‍💻 About Me
-Professional with 8 years of experience in telecommunications 
+## About Me
+Professional with 8 years of experience in telecommunications.
 
-## 📚 Progress
+## Progress
 
-**Started:** February 1, 2026
+**Started:** February 15, 2026
 
-### ✅ Completed (TryHackMe)
+### Completed
+
+**TryHackMe - Pre-Security Path** (Completed: February 15, 2026)
 
 **Module 1: Introduction**
 - Intro to Offensive Security
-- Intro to Defensive Security
+- Intro to Defensive Security  
 - Careers in Cyber
 
 **Module 2: Network Fundamentals**
@@ -31,25 +33,18 @@ Professional with 8 years of experience in telecommunications
 - Linux Fundamentals Part 1, 2, 3
 
 **Module 5: Windows Fundamentals**
-- Windows Fundamentals 1
+- Windows Fundamentals 1, 2, 3
 
-**Total rooms completed:** ~15
+**Total rooms completed:** 20+
 
-### 🔄 Currently Learning
-- Windows Fundamentals 2 & 3
-- Network Security
+### Currently Learning
+- Cyber Security 101 Path
 
-### ⏭️ Next Up
-- Nmap & Network Scanning
-- Metasploit
-- Web Application Security
+### Next Up
+- Cyber Security 101 (Sec+1)
+- Jr Penetration Tester Path
 
-## 🎯 Goals
-- Build strong foundation in penetration testing
-- Develop practical security skills
-- Transition to security-focused role
-
-## 🛠️ Skills in Development
+## Skills in Development
 - Network Security
 - Linux/Windows Administration
 - Penetration Testing
@@ -58,4 +53,4 @@ Professional with 8 years of experience in telecommunications
 
 ---
 
-*Last updated: February 15, 2026*
+*Last updated: February 16, 2026*
