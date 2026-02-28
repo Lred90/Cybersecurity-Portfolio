@@ -9,7 +9,7 @@ Professional with 8 years of experience in telecommunications.
 
 ### Completed
 
-**TryHackMe - Pre-Security Path** (Completed: February 15, 2026)
+**TryHackMe - Pre-Security Path** ✅ (Completed: February 15, 2026)
 
 **Module 1: Introduction**
 - Intro to Offensive Security
@@ -35,22 +35,29 @@ Professional with 8 years of experience in telecommunications.
 **Module 5: Windows Fundamentals**
 - Windows Fundamentals 1, 2, 3
 
-**Total rooms completed:** 20+
+**Module 6: Active Directory**
+- AD Basics
+- Group Policy Objects (GPO)
+- Authentication Protocols (Kerberos, NetNTLM)
+
+**Total rooms completed:** 30+
 
 ### Currently Learning
-- Cyber Security 101 Path
+- **Cyber Security 101 Path** - Network Security Concepts
 
 ### Next Up
-- Cyber Security 101 (Sec+1)
 - Jr Penetration Tester Path
+- Nmap & Network Scanning
+- Metasploit Framework
+- Web Application Security
 
 ## Skills in Development
 - Network Security
 - Linux/Windows Administration
-- Penetration Testing
-- Web Application Security
+- Active Directory Management
+- Penetration Testing Fundamentals
 - Security Tools & Methodology
 
 ---
 
-*Last updated: February 16, 2026*
+*Last updated: February 28, 2026*
